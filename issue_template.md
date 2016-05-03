@@ -1,4 +1,3 @@
-Note: All presenter(s) need to be subscribed to the Remote Meetup Go channel here: https://www.bigmarker.com/communities/remote-meetup-go. This will allow us to connect the event to the presenter(s).
 ## Event
 Title:
 
@@ -18,20 +17,10 @@ What type is your event (pick one that sounds more like it):
 - [ ] Presentation
 - [ ] Demo
 
-## Presenter
-Note: repeat the section below for each presenter. Also, keep in mind that attendees want to know about the presenter(s)'s' background, so include as much relevant info as possible.
-### Personal info
-Full name:
 
-Title:
+## Presenter(s)
 
-Bio:
+All presenter(s) subscribed to our Remote Meetup Go channel?
+- [ ] yes
 
-Email:
-
-### Social media links
-Twiter:
-
-linkedIn:
-
-Facebook:
+Enter below the name of each presenter so we can find them on the channel:

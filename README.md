@@ -1,24 +1,24 @@
 # Go Remote Meetups
 
-https://github.com/remotemeetup/instructions
-
 ## Kickoff a new Go remote meetup
-If you are a person who wants to organize a remote meetup, or someone who wants to do a tech-talk at one, please head to our issue list and [open a new issue](https://github.com/remotemeetup/go/issues). We get notified automatically and will get back to you soon after to help make your Go remote meetup happen.
+If you want to present at our Go Remote Meetup, please head to our issue list to [open a new issue](https://github.com/remotemeetup/go/issues/new) and fill in all the information for the event.
 
-We will include your event on our EventBright account [comming soon], on our website, help promote it, and help you with any technical tooling issue or question you might have.
+Visit our [Remote Meetup Go](https://www.bigmarker.com/communities/remote-meetup-go/) channel to see a listing of past events for inspiration.
 
-## Guidelines
+## Note about presenters
+Every presenter for an event must be subscribed to the Remote Meetup Go channel here: https://www.bigmarker.com/communities/remote-meetup-go. This is a pre-requisite for us to be able to connect an event to the presenter(s).
 
-- Either an organizer or a speaker can kickoff a remote meetup.
+Keep in mind that attendees want to know about the presenter(s)'s' background, so include as much relevant info as possible. Please make sure that each presenter profile on our channel has most of these:
+- Personal info: Full name, title, bio.
+- Social media links: Twitter, linkedIn, Facebook.
 
-- Visit [RemoteMeetup.com](http://www.remotemeetup.com) to see a listing of past events for inspiration.
-
-- Please paste our [issue template - coming soon] when opening a new issue.
 
 ## Ways to get in touch
 
-- Getting in touch is as easy as [creating a new issue](https://github.com/remotemeetup/go/issues/new) with any question or idea.
+- Join us on Slack (these channels are linked):
 
-- Join us on the #organizers-go channel on RemoteMeetup Slack (invite: https://remotemeetup.herokuapp.com/)
+    Gophers Slack - #remotemeetup channel (invite: http://invite.slack.golangbridge.org/)
+
+    RemoteMeetup Slack - #organizers-go channel (invite: https://remotemeetup.herokuapp.com/)
 
 - Find us on Twitter at https://twitter.com/RemoteMeetupGo or https://twitter.com/remotemeetup
