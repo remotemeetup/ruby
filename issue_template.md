@@ -10,6 +10,8 @@ Description:
 
 List any pre-requisites:
 
+Limit number of attendees to (our plan allows up to 100):
+
 What type is your event (pick one that sounds more like it):
 
 - [ ] Webinar
@@ -29,16 +31,15 @@ Enter below the name of each presenter so we can find them on the channel:
 
 ## Moderator(s)
 
-Ideally, you can have 1-4 moderators with some knowledge on the topic so they can answer questions in chat during the session.
-Although it is recommended to have moderator(s), it is not mandatory.
+We recommend that you have 1-4 moderators with some knowledge on the topic so they can help with the chat Q&A during the session. Keep in mind also that you will have the ability to choose to turn off the Q&A during your presentation and open it at the end.
 
-Moderator(s)?
+All moderator(s) subscribed to our Remote Meetup Go channel?
+
 - [ ] yes
 
-Name and contact:
+Enter the name of each moderator below so we can find them on the [#remotemeetup] (https://gophers.slack.com/messages/remotemeetup/details/) slack channel in [Gophers slack](https://gophersinvite.herokuapp.com/):
 
 
-If you don't have moderators, and want volunteers, you can message in the [#remotemeetup] (https://gophers.slack.com/messages/remotemeetup/details/) slack channel in [Gophers slack](https://gophersinvite.herokuapp.com/)
 
 
 
