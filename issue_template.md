@@ -37,7 +37,7 @@ All moderator(s) subscribed to our Remote Meetup Go channel?
 
 - [ ] yes
 
-Enter the name of each moderator below so we can find them on the [#remotemeetup] (https://gophers.slack.com/messages/remotemeetup/details/) slack channel in [Gophers slack](https://gophersinvite.herokuapp.com/):
+Enter the name of each moderator below so we can find them on the channel:
 
 
 
