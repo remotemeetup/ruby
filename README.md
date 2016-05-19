@@ -1,7 +1,7 @@
 # Ruby Remote Meetups
 
 ## Kickoff a new Ruby remote meetup
-If you want to present at our Go Remote Meetup, please head to our issue list to [open a new issue](https://github.com/remotemeetup/ruby/issues/new) and fill in all the information for the event.
+If you want to present at our Ruby Remote Meetup, please head to our issue list to [open a new issue](https://github.com/remotemeetup/ruby/issues/new) and fill in all the information for the event.
 
 Visit our [Remote Meetup Ruby](https://www.bigmarker.com/communities/remote-meetup) channel to see a listing of past events for inspiration.
 
