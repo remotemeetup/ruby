@@ -18,11 +18,12 @@ What type is your event (pick one that sounds more like it):
 - [ ] Class/Tutorial
 - [ ] Presentation
 - [ ] Demo
+- [ ] Social
 
 
 ## Presenter(s)
 
-All presenter(s) subscribed to our Remote Meetup Go channel?
+All presenter(s) subscribed to our [Remote Meetup channel][https://www.bigmarker.com/remote-meetup]?
 - [ ] yes
 
 Enter below the name of each presenter so we can find them on the channel:
@@ -33,7 +34,7 @@ Enter below the name of each presenter so we can find them on the channel:
 
 We recommend that you have 1-4 moderators with some knowledge on the topic so they can help with the chat Q&A during the session. Keep in mind also that you will have the ability to choose to turn off the Q&A during your presentation and open it at the end.
 
-All moderator(s) subscribed to our Remote Meetup Go channel?
+All moderator(s) subscribed to our [Remote Meetup channel][https://www.bigmarker.com/remote-meetup]?
 
 - [ ] yes
 
